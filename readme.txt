@@ -1,5 +1,5 @@
 === Dashboard Log Monitor ===
-Contributors: onnimonni, ottok
+Contributors: onnimonni, Zuige, ottok
 Tags: dashboard, admin, log, access log, seravo
 Donate link: http://seravo.fi/
 Requires at least: 3.8
